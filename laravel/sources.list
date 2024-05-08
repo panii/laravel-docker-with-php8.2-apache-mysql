@@ -1,0 +1,2 @@
+deb https://mirrors.ustc.edu.cn/debian/ bookworm main non-free
+deb-src https://mirrors.ustc.edu.cn/debian/ bookworm main non-free
